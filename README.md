@@ -47,6 +47,8 @@
 
 [Open Source Licenses](https://choosealicense.com/licenses/) 常见开源证书的介绍，并提供一键复制使用
 
+[语义化版本 2.0.0](https://semver.org/lang/zh-CN/) 介绍了软件开发项目版本控制规范
+
 <h3 id='dev-tools'>工具类</h3>
 
 [jsDelivr](https://www.jsdelivr.com/) CDN服务
