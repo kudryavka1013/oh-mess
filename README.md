@@ -38,7 +38,7 @@
 
 [pictogrammers](https://pictogrammers.com/libraries/) 收纳三款 MaterialDesign 图标，其中 MemoryIcons 是低分辨率图标，比较少见。
 
-[iconfont](https://www.iconfont.cn/) 阿里巴巴矢量图标库，体验一般，需要登录，放在这里凑个数。个人感觉交互逻辑不太聪明（鼠标移上去挡住图标，真有你的）。
+[iconfont](https://www.iconfont.cn/) 阿里巴巴矢量图标库，体验一般，需要登录，放在这里凑个数。个人感觉交互逻辑不太聪明。
 
 <h3 id='reference-books'>开发工具书</h3>
 
