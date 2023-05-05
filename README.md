@@ -7,6 +7,7 @@
 <h2 id='catalog'>目录</h2>
 
 - [字体](#fonts)
+- [图标](#icons)
 
 ---
 <h3 id='fonts'>字体</h3>
@@ -26,3 +27,13 @@
 [Font & Text Symbols](https://instafonts.io/) 输入内容生成对应的 Unicode 符号文本，可直接复制粘贴使用。有趣的小玩意，但是不支持中文。
 
 [仓耳字库](http://tsanger.cn/) 个人非商业免费使用字体库
+
+<h3 id='icons'>图标</h3>
+
+[ICONS8](https://icons8.com/icons) 图标库，收纳的图标巨多。不仅支持中英文检索，还可以对图标进行诸如背景色调整，局部颜色调整等自定义操作；同时提供了深色浅色环境预览，这个需要点赞。
+
+[FONT AWESOME](https://fontawesome.com/search) 经典的图标库，23.03推出了新版本v6，已经有2000余个图标，风格统一，质量优秀。
+
+[pictogrammers](https://pictogrammers.com/libraries/) 收纳三款 MaterialDesign 图标，其中 MemoryIcons 是低分辨率图标，比较少见。
+
+[iconfont](https://www.iconfont.cn/) 阿里巴巴矢量图标库，体验一般，需要登录，放在这里凑个数。个人感觉交互逻辑不太聪明（鼠标移上去挡住图标，真有你的）。
