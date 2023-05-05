@@ -10,6 +10,7 @@
 - [图标](#icons)
 - [开发工具书](#reference-books)
 - [工具类](#dev-tools)
+- [设计与配色](#design)
 ---
 <h3 id='fonts'>字体</h3>
 
@@ -62,3 +63,15 @@
 [Codepen](https://codepen.io/pen/) 在线HTML，CSS，JS代码编写测试
 
 [CSS Layout Generator](https://layout.bradwoods.io/) 快速生成CSS布局
+
+<h3 id='design'>设计与配色</h3>
+
+[Adobe Color](https://color.adobe.com/zh/create/color-wheel) Adobe配色轮盘，除此之外还有配色方案、色彩对比检查工具等
+
+[NIPPON COLORS](https://nipponcolors.com/) 日本传统色彩收录
+
+[中国色](http://zhongguose.com/) 模仿日本色网站设计的中国色彩收录站
+
+[Pattern Generator](https://doodad.dev/pattern-generator/) 快速生成一些循环图案，适合用作背景图
+
+[Cool Backgrounds](https://coolbackgrounds.io/) 提供了一些简约风格的背景图，比较精致，但是可选项太少
