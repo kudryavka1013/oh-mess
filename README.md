@@ -8,7 +8,8 @@
 
 - [字体](#fonts)
 - [图标](#icons)
-
+- [开发工具书](#reference-books)
+- [工具类](#dev-tools)
 ---
 <h3 id='fonts'>字体</h3>
 
@@ -37,3 +38,25 @@
 [pictogrammers](https://pictogrammers.com/libraries/) 收纳三款 MaterialDesign 图标，其中 MemoryIcons 是低分辨率图标，比较少见。
 
 [iconfont](https://www.iconfont.cn/) 阿里巴巴矢量图标库，体验一般，需要登录，放在这里凑个数。个人感觉交互逻辑不太聪明（鼠标移上去挡住图标，真有你的）。
+
+<h3 id='reference-books'>开发工具书</h3>
+
+[Markdown语法速查](https://markdown.com.cn/cheat-sheet.html)
+
+[can i use](https://caniuse.com/) 检查各类WebAPI在各浏览器环境的兼容情况
+
+[Open Source Licenses](https://choosealicense.com/licenses/) 常见开源证书的介绍，并提供一键复制使用
+
+<h3 id='dev-tools'>工具类</h3>
+
+[jsDelivr](https://www.jsdelivr.com/) CDN服务
+
+[BootCDN](https://www.bootcdn.cn/) CDN服务
+
+[RegExr](https://regexr.com/) 正则在线编写测试，提供了可视化和高亮提示
+
+[JsonBird](https://bird.ioliu.cn/) 远程数据接口代理服务
+
+[Codepen](https://codepen.io/pen/) 在线HTML，CSS，JS代码编写测试
+
+[CSS Layout Generator](https://layout.bradwoods.io/) 快速生成CSS布局
