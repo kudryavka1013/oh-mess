@@ -64,6 +64,8 @@
 
 [CSS Layout Generator](https://layout.bradwoods.io/) 快速生成CSS布局
 
+[fastmock](https://www.fastmock.site/#/) 在线接口 MOCK 平台
+
 <h3 id='design'>设计与配色</h3>
 
 [Adobe Color](https://color.adobe.com/zh/create/color-wheel) Adobe配色轮盘，除此之外还有配色方案、色彩对比检查工具等
