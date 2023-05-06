@@ -30,6 +30,8 @@
 
 [仓耳字库](http://tsanger.cn/) 个人非商业免费使用字体库
 
+[Nerd Fonts](https://www.nerdfonts.com/font-downloads) 给编程字体加入字体图标库（[看这里](https://www.nerdfonts.com/#home)），用以给开发人员对IDE和命令行搞美化之类的骚操作
+
 <h3 id='icons'>图标</h3>
 
 [ICONS8](https://icons8.com/icons) 图标库，收纳的图标巨多。不仅支持中英文检索，还可以对图标进行诸如背景色调整，局部颜色调整等自定义操作；同时提供了深色浅色环境预览，这个需要点赞。
