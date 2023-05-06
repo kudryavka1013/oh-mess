@@ -8,8 +8,8 @@
 
 - [字体](#fonts)
 - [图标](#icons)
-- [开发工具书](#reference-books)
-- [工具类](#dev-tools)
+- [开发字典类](#reference-books)
+- [开发工具类](#dev-tools)
 - [设计与配色](#design)
 ---
 <h3 id='fonts'>字体</h3>
@@ -40,7 +40,7 @@
 
 [iconfont](https://www.iconfont.cn/) 阿里巴巴矢量图标库，体验一般，需要登录，放在这里凑个数。个人感觉交互逻辑不太聪明。
 
-<h3 id='reference-books'>开发工具书</h3>
+<h3 id='reference-books'>开发字典类</h3>
 
 [Markdown语法速查](https://markdown.com.cn/cheat-sheet.html)
 
@@ -50,7 +50,7 @@
 
 [语义化版本 2.0.0](https://semver.org/lang/zh-CN/) 介绍了软件开发项目版本控制规范
 
-<h3 id='dev-tools'>工具类</h3>
+<h3 id='dev-tools'>开发工具类</h3>
 
 [jsDelivr](https://www.jsdelivr.com/) CDN服务
 
