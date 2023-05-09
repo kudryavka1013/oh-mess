@@ -13,6 +13,7 @@
 - [设计与配色](#design)
 - [各种资源及检索工具](#resources)
 - [花里胡哨的小玩意](#toys)
+- [实用工具](#useful-tools)
 
 ---
 <h3 id='fonts'>字体</h3>
@@ -114,3 +115,9 @@
 [红字白字生成器](https://yurafuca.com/5000choyen/index_cn.html) - **“想要5000兆圆！”** 本人不太了解[梗的出处](https://zh.moegirl.org.cn/zh-tw/%E6%83%B3%E8%A6%815000%E5%85%86%E5%9C%86!)，第一次接触是在赛马娘的名梗 ~~（我好想和大和赤骥.jpg）~~。[此处是另一个链接](https://auri.ga/5000generator/)
 
 [Font & Text Symbols](https://instafonts.io/) - 根据输入内容生成对应的 Unicode 符号文本，可直接复制粘贴使用。有趣的小玩意，但是不支持中文
+
+<h3 id='useful-tools'>实用工具</h3>
+
+[AirPortal](https://airportal.cn/) - 空投快传，文件传输服务
+
+[MuseTransfer](https://musetransfer.com/) - 文件传输服务
