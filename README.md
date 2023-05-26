@@ -120,6 +120,8 @@
 
 [神奇海螺试验场](https://lab.magiconch.com/) - 一个神奇的工具箱，让我怀疑作者是吃脑洞长大的，自己看吧
 
+[流浪地球2倒计时生成](https://lab.wsm.ink/the-wandering-earth-2-countdown/#/) - 距离吃到九转大肠还有30秒
+
 <h3 id='useful-tools'>实用工具</h3>
 
 [AirPortal](https://airportal.cn/) - 空投快传，文件传输服务
