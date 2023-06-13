@@ -94,6 +94,12 @@
 
 [ShieldsIO](https://shields.io/) - 徽标生成工具，支持不同的样式风格
 
+[WhoCanUse](https://www.whocanuse.com/) - 对比色检测工具，检测背景色与文字颜色是否符合[无障碍标准](https://www.w3.org/TR/WCAG21/)
+
+[ColorSpace](https://mycolor.space/) - 渐变色背景实时预览，支持双色和三色渐变
+
+[WebGradients](https://webgradients.com/) - 收录了180种渐变色的配色方案
+
 <h3 id='resources'>各种资源及检索工具</h3>
 
 [二次元图片检索](https://ascii2d.net/) - 支持本地上传和在线链接检索，R级警告
