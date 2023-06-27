@@ -20,9 +20,9 @@
 
 > 字体使用有风险，注意规避版权问题
 
-[UNCUT](https://uncut.wtf/) - 除了常规的sans serif，serif，monospace字体外，还收录了一些长相奇特的display英文字体；基本都是开源字体，但协议各有不同。
+#### 字库
 
-[LXGW](https://lxgw.github.io/) - 霞鹜开源中文字体，来源于日文字体。一系列使用起来非常舒适的字体，可以用在博客等各种阅读场景
+[UNCUT](https://uncut.wtf/) - 除了常规的sans serif，serif，monospace字体外，还收录了一些长相奇特的display英文字体；基本都是开源字体，但协议各有不同。
 
 [FREE FONTS](https://www.freefonts.io/) - 收录各类免费个人使用的英文字体
 
@@ -35,6 +35,14 @@
 [站酷字库](https://www.zcool.com.cn/special/zcoolfonts/) - 免费可商用字体，质量很高
 
 [Nerd Fonts](https://www.nerdfonts.com/font-downloads) - 给编程字体加入字体图标库（[看这里](https://www.nerdfonts.com/#home)），用以给开发人员对IDE和命令行搞美化之类的骚操作
+
+#### 字体
+
+[LXGW](https://lxgw.github.io/) - 霞鹜开源中文字体，来源于日文字体。一系列使用起来非常舒适的字体，可以用在博客等各种阅读场景
+
+[Assassin](https://www.dafont.com/assassin.font) - 刺客信条风格字体，怎么说呢，就很新奇
+
+[Input](https://input.djr.com/) - 专为coding设计的字体
 
 <h3 id='icons'>图标</h3>
 
