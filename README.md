@@ -128,13 +128,15 @@
 
 [红字白字生成器](https://yurafuca.com/5000choyen/index_cn.html) - **“想要5000兆圆！”** 本人不太了解[梗的出处](https://zh.moegirl.org.cn/zh-tw/%E6%83%B3%E8%A6%815000%E5%85%86%E5%9C%86!)，第一次接触是在赛马娘的名梗 ~~（我好想和大和赤骥.jpg）~~。[此处是另一个链接](https://auri.ga/5000generator/)
 
-[Font & Text Symbols](https://instafonts.io/) - 根据输入内容生成对应的 Unicode 符号文本，可直接复制粘贴使用。有趣的小玩意，但是不支持中文
+[InstaFonts](https://instafonts.io/) - 根据输入内容生成对应的 Unicode 符号文本，可直接复制粘贴使用。有趣的小玩意，但是不支持中文
 
 [EVA标题生成器](https://lab.magiconch.com/eva-title/) - 新世纪福音战士标题生成器，还支持各种排版，只能说很有那味了
 
 [神奇海螺试验场](https://lab.magiconch.com/) - 一个神奇的工具箱，让我怀疑作者是吃脑洞长大的，自己看吧
 
 [流浪地球2倒计时生成](https://lab.wsm.ink/the-wandering-earth-2-countdown/#/) - 距离吃到九转大肠还有30秒
+
+[3D数字](https://codepen.io/Chokcoco/pen/qXVxyw) - 3D数码管状的数字计时器
 
 <h3 id='useful-tools'>实用工具</h3>
 
