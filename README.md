@@ -142,6 +142,8 @@
 
 [3D数字](https://codepen.io/Chokcoco/pen/qXVxyw) - 3D数码管状的数字计时器
 
+[Jellylade](https://app.jellylade.com/) - 给图片添加一个大背景，比如iPhone，iPad，浏览器窗口等，做一些预览效果图还可以
+
 <h3 id='useful-tools'>实用工具</h3>
 
 [AirPortal](https://airportal.cn/) - 空投快传，文件传输服务
