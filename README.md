@@ -36,6 +36,8 @@
 
 [Nerd Fonts](https://www.nerdfonts.com/font-downloads) - 给编程字体加入字体图标库（[看这里](https://www.nerdfonts.com/#home)），用以给开发人员对IDE和命令行搞美化之类的骚操作
 
+[猫啃网](https://www.maoken.com/) - 免费可商用中英文字体，还有一些手写体和特殊字体，比较全
+
 #### 字体
 
 [LXGW](https://lxgw.github.io/) - 霞鹜开源中文字体，来源于日文字体。一系列使用起来非常舒适的字体，可以用在博客等各种阅读场景
