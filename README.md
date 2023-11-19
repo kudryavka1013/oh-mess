@@ -116,8 +116,6 @@
 
 [二次元图片检索](https://ascii2d.net/) - 支持本地上传和在线链接检索，R级警告
 
-[无名音乐](https://thewind.xyz/) - 高音质音乐检索及下载
-
 [Minecraft Sounds](https://o.xbottle.top/mcsounds/) - 我的世界音效集合
 
 [YouTube MP3 Downloader](https://en.loader.to/4/) - 油管MP3音频在线下载
