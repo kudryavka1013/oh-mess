@@ -58,6 +58,8 @@
 
 [Material Icons](https://fonts.google.com/icons) - Google的图标库
 
+[Iconbuddy](https://iconbuddy.app/) - 图标库，各种格式大小可直接复制、下载
+
 <h3 id='reference-books'>开发字典类</h3>
 
 [Markdown语法速查](https://markdown.com.cn/cheat-sheet.html)
