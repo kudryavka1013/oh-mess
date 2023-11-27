@@ -147,3 +147,7 @@
 [AirPortal](https://airportal.cn/) - 空投快传，文件传输服务
 
 [MuseTransfer](https://musetransfer.com/) - 文件传输服务
+
+[白描](https://web.baimiaoapp.com/) - 免费OCR工具，有多平台支持；可识别文字、公式、EXCEL等
+
+[OLOCR](https://olocr.com/zh-CN) - 免费OCR工具，讲道理精度一般
