@@ -40,6 +40,8 @@
 
 [Font Meme](https://fontmeme.com/zh/) - 收纳了各种游戏、动画、影视剧、媒体网站、著名标志等的字体
 
+[【這李設計】的收集](https://www.figma.com/community/file/1256555346586156735) - 某设计师整理的免费商用字体库，文章来自[少数派](https://sspai.com/post/80926)
+
 #### 字体
 
 [LXGW](https://lxgw.github.io/) - 霞鹜开源中文字体，来源于日文字体。一系列使用起来非常舒适的字体，可以用在博客等各种阅读场景
