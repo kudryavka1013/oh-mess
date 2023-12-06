@@ -38,7 +38,7 @@
 
 [猫啃网](https://www.maoken.com/) - 免费可商用中英文字体，还有一些手写体和特殊字体，比较全
 
-[Font Meme](https://fontmeme.com/zh/) - 收纳了各种游戏、动画、影视剧、媒体网站等的字体
+[Font Meme](https://fontmeme.com/zh/) - 收纳了各种游戏、动画、影视剧、媒体网站、著名标志等的字体
 
 #### 字体
 
