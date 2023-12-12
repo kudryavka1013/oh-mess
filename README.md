@@ -157,3 +157,5 @@
 [OLOCR](https://olocr.com/zh-CN) - 免费OCR工具，讲道理精度一般
 
 [LocalSend](https://localsend.org/#/) - 文件传输工具
+
+[TinyPNG](https://tinypng.com/) - WebP、PNG、JPEG图片压缩工具
