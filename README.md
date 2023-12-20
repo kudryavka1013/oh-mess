@@ -146,6 +146,8 @@
 
 [Jellylade](https://app.jellylade.com/) - 给图片添加一个大背景，比如iPhone，iPad，浏览器窗口等，做一些预览效果图还可以
 
+[CSS Trick Border](https://kovart.github.io/dashed-border-generator/) - 使用background-image实现css边框效果
+
 <h3 id='useful-tools'>实用工具</h3>
 
 [AirPortal](https://airportal.cn/) - 空投快传，文件传输服务
