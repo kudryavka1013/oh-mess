@@ -2,7 +2,7 @@
 
 该项目用于收录各种奇怪有趣又有点小用的网站和工具，包括但不限于`在线工具`、`设计素材`、`技术博客`等
 
-![badge](https://img.shields.io/badge/State-useless-orange?style=for-the-badge)
+![badge](https://img.shields.io/badge/State-might_be_useful-orange?style=for-the-badge)
 
 <h2 id='catalog'>目录</h2>
 
