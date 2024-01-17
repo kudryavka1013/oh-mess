@@ -44,7 +44,7 @@
 
 #### 字体
 
-[LXGW](https://lxgw.github.io/) - 霞鹜开源中文字体，来源于日文字体。一系列使用起来非常舒适的字体，可以用在博客等各种阅读场景
+[LXGW](https://lxgw.github.io/) ⭐ - 霞鹜开源中文字体，来源于日文字体。一系列使用起来非常舒适的字体，可以用在博客等各种阅读场景
 
 [Assassin](https://www.dafont.com/assassin.font) - 刺客信条风格字体，怎么说呢，就很新奇
 
@@ -136,9 +136,9 @@
 
 [InstaFonts](https://instafonts.io/) - 根据输入内容生成对应的 Unicode 符号文本，可直接复制粘贴使用。有趣的小玩意，但是不支持中文
 
-[EVA标题生成器](https://lab.magiconch.com/eva-title/) - 新世纪福音战士标题生成器，还支持各种排版，只能说很有那味了
+[EVA标题生成器](https://lab.magiconch.com/eva-title/) ⭐ - 新世纪福音战士标题生成器，还支持各种排版，只能说很有那味了
 
-[神奇海螺试验场](https://lab.magiconch.com/) - 一个神奇的工具箱，让我怀疑作者是吃脑洞长大的，自己看吧
+[神奇海螺试验场](https://lab.magiconch.com/) ⭐ - 一个神奇的工具箱，怀疑作者是吃脑洞长大的，自己看吧
 
 [流浪地球2倒计时生成](https://lab.wsm.ink/the-wandering-earth-2-countdown/#/) - 距离吃到九转大肠还有30秒
 
@@ -154,10 +154,10 @@
 
 [MuseTransfer](https://musetransfer.com/) - 文件传输服务
 
-[白描](https://web.baimiaoapp.com/) - 免费OCR工具，有多平台支持；可识别文字、公式、EXCEL等
+[白描](https://web.baimiaoapp.com/) ⭐ - 免费OCR工具，有多平台支持；可识别文字、公式、EXCEL等
 
 [OLOCR](https://olocr.com/zh-CN) - 免费OCR工具，讲道理精度一般
 
 [LocalSend](https://localsend.org/#/) - 文件传输工具
 
-[TinyPNG](https://tinypng.com/) - WebP、PNG、JPEG图片压缩工具
+[TinyPNG](https://tinypng.com/) ⭐ - WebP、PNG、JPEG图片压缩工具
