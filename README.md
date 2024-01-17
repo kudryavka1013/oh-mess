@@ -1,6 +1,6 @@
 # 杂物间
 
-该项目仅是用于收录各种奇怪有趣又有点小用的物件，包括但不限于`工具`、`设计`、`交互`、`技术博客`等
+该项目用于收录各种奇怪有趣又有点小用的网站和工具，包括但不限于`在线工具`、`设计素材`、`技术博客`等
 
 ![badge](https://img.shields.io/badge/State-useless-orange?style=for-the-badge)
 
