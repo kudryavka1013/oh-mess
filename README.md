@@ -163,3 +163,5 @@
 [LocalSend](https://localsend.org/#/) - 文件传输工具
 
 [TinyPNG](https://tinypng.com/) ⭐ - WebP、PNG、JPEG图片压缩工具
+
+[Excalidraw](https://excalidraw.com/) - 手绘风格的在线流程图画板工具
