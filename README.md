@@ -6,21 +6,24 @@
 
 <h2 id='catalog'>目录</h2>
 
-- [字体](#fonts)
-- [图标](#icons)
+- [设计资源](#design)
+  - [字体字库](#fonts)
+  - [图标](#icons)
+  - [配色](#color)
 - [开发字典类](#reference-books)
 - [开发工具类](#dev-tools)
-- [设计与配色](#design)
 - [各种资源及检索工具](#resources)
 - [花里胡哨的小玩意](#toys)
 - [实用工具](#useful-tools)
 
 ---
-<h3 id='fonts'>字体</h3>
+<h2 id='design'>设计资源</h3>
+
+<h3 id='fonts'>字体字库</h4>
 
 > 字体使用有风险，注意规避版权问题
 
-#### 字库
+##### 字库
 
 [UNCUT](https://uncut.wtf/) - 除了常规的sans serif，serif，monospace字体外，还收录了一些长相奇特的display英文字体；基本都是开源字体，但协议各有不同。
 
@@ -42,7 +45,7 @@
 
 [【這李設計】的收集](https://www.figma.com/community/file/1256555346586156735) - 某设计师整理的免费商用字体库，文章来自[少数派](https://sspai.com/post/80926)
 
-#### 字体
+##### 字体
 
 [LXGW](https://lxgw.github.io/) ⭐ - 霞鹜开源中文字体，来源于日文字体。一系列使用起来非常舒适的字体，可以用在博客等各种阅读场景
 
@@ -64,7 +67,27 @@
 
 [Iconbuddy](https://iconbuddy.app/) - 图标库，各种格式大小可直接复制、下载
 
-<h3 id='reference-books'>开发字典类</h3>
+<h3 id='color'>配色</h3>
+
+[Adobe Color](https://color.adobe.com/zh/create/color-wheel) - Adobe配色轮盘，除此之外还有配色方案、色彩对比检查工具等
+
+[NIPPON COLORS](https://nipponcolors.com/) - 日本传统色彩收录
+
+[中国色](http://zhongguose.com/) - 模仿日本色网站设计的中国色彩收录站
+
+[WhoCanUse](https://www.whocanuse.com/) - 对比色检测工具，检测背景色与文字颜色是否符合[无障碍标准](https://www.w3.org/TR/WCAG21/)
+
+[ColorSpace](https://mycolor.space/) - 渐变色背景实时预览，支持双色和三色渐变
+
+[WebGradients](https://webgradients.com/) - 收录了180种渐变色的配色方案
+
+[Pattern Generator](https://doodad.dev/pattern-generator/) - 快速生成一些循环图案，适合用作背景图
+
+[Cool Backgrounds](https://coolbackgrounds.io/) - 提供了一些低多边形风格的背景图，比较精致，但是可选项太少
+
+[Trianglify.io](https://trianglify.io/) - 低多边形图案生成工具，适合用来做背景图
+
+<h2 id='reference-books'>开发字典</h2>
 
 [Markdown语法速查](https://markdown.com.cn/cheat-sheet.html)
 
@@ -74,7 +97,7 @@
 
 [语义化版本 2.0.0](https://semver.org/lang/zh-CN/) - 介绍了软件开发项目版本控制规范
 
-<h3 id='dev-tools'>开发工具类</h3>
+<h2 id='dev-tools'>开发工具</h2>
 
 [jsDelivr](https://www.jsdelivr.com/) - CDN服务
 
@@ -94,63 +117,39 @@
 
 [VIVID GRADIENT GENERATOR TOOL](https://www.learnui.design/tools/gradient-generator.html) ⭐ - 更好的CSS渐变工具，过渡更加自然，有介绍为什么传统的渐变总会有一块灰色区域
 
-<h3 id='design'>设计与配色</h3>
-
-[Adobe Color](https://color.adobe.com/zh/create/color-wheel) - Adobe配色轮盘，除此之外还有配色方案、色彩对比检查工具等
-
-[NIPPON COLORS](https://nipponcolors.com/) - 日本传统色彩收录
-
-[中国色](http://zhongguose.com/) - 模仿日本色网站设计的中国色彩收录站
-
-[Pattern Generator](https://doodad.dev/pattern-generator/) - 快速生成一些循环图案，适合用作背景图
-
-[Cool Backgrounds](https://coolbackgrounds.io/) - 提供了一些低多边形风格的背景图，比较精致，但是可选项太少
-
-[Trianglify.io](https://trianglify.io/) - 低多边形图案生成工具，适合用来做背景图
-
 [Badgen](https://badgen.net/) - 徽标生成工具，常见于各种 readme.md
 
 [ShieldsIO](https://shields.io/) - 徽标生成工具，支持不同的样式风格
 
-[WhoCanUse](https://www.whocanuse.com/) - 对比色检测工具，检测背景色与文字颜色是否符合[无障碍标准](https://www.w3.org/TR/WCAG21/)
+<h2 id='resources'>各种资源及检索工具</h2>
 
-[ColorSpace](https://mycolor.space/) - 渐变色背景实时预览，支持双色和三色渐变
-
-[WebGradients](https://webgradients.com/) - 收录了180种渐变色的配色方案
-
-<h3 id='resources'>各种资源及检索工具</h3>
-
-[二次元图片检索](https://ascii2d.net/) - 支持本地上传和在线链接检索，R级警告
+[二次元图片检索](https://ascii2d.net/) - 支持本地上传和在线链接检索，R18警告
 
 [Minecraft Sounds](https://o.xbottle.top/mcsounds/) - 我的世界音效集合
 
-[YouTube MP3 Downloader](https://en.loader.to/4/) - 油管MP3音频在线下载
+[MSDN,itellyou](https://msdn.itellyou.cn/) - 收录了各版本操作系统镜像、开发设计类应用软件等技术资源
 
-[MSDN,我告诉你](https://msdn.itellyou.cn/) - 收录了各版本操作系统镜像、开发设计类应用软件等技术资源
-
-<h3 id='toys'>花里胡哨的小玩意</h3>
-
-[snappify](https://snappify.com/editor) - 给你的代码加上漂亮的背景，并导出为图片
+<h2 id='toys'>花里胡哨的小玩意</h2>
 
 [Notion 风格头像制作](https://notion-avatar.vercel.app/zh) - 可以自定义或随机生成Notion头像并导出，可用在博客文章里
 
 [红字白字生成器](https://yurafuca.com/5000choyen/index_cn.html) - **“想要5000兆圆！”** 本人不太了解[梗的出处](https://zh.moegirl.org.cn/zh-tw/%E6%83%B3%E8%A6%815000%E5%85%86%E5%9C%86!)，第一次接触是在赛马娘的名梗 ~~（我好想和大和赤骥XX.jpg）~~。[此处是另一个链接](https://auri.ga/5000generator/)
 
-[InstaFonts](https://instafonts.io/) - 根据输入内容生成对应的 Unicode 符号文本，可直接复制粘贴使用。有趣的小玩意，但是不支持中文
+[InstaFonts](https://instafonts.io/) - 根据输入内容生成对应的 Unicode 符号文本，可直接复制粘贴使用。但是不支持中文
 
-[EVA标题生成器](https://lab.magiconch.com/eva-title/) ⭐ - 新世纪福音战士标题生成器，还支持各种排版，只能说很有那味了
+[神奇海螺试验场](https://lab.magiconch.com/) ⭐ - 神奇的工具箱，作者是吃脑洞长大的
 
-[神奇海螺试验场](https://lab.magiconch.com/) ⭐ - 一个神奇的工具箱，怀疑作者是吃脑洞长大的，自己看吧
+[EVA标题生成器](https://lab.magiconch.com/eva-title/) ⭐ - 新世纪福音战士标题生成器，还支持各种排版，只能说很有那味了；也在神奇海螺试验场里
 
 [流浪地球2倒计时生成](https://lab.wsm.ink/the-wandering-earth-2-countdown/#/) - 距离吃到九转大肠还有30秒
-
-[3D数字](https://codepen.io/Chokcoco/pen/qXVxyw) - 3D数码管状的数字计时器
 
 [Jellylade](https://app.jellylade.com/) - 给图片添加一个大背景，比如iPhone，iPad，浏览器窗口等，做一些预览效果图还可以
 
 [CSS Trick Border](https://kovart.github.io/dashed-border-generator/) - 使用background-image实现css边框效果
 
-<h3 id='useful-tools'>实用工具</h3>
+[snappify](https://snappify.com/editor) - 给你的代码加上漂亮的背景，并导出为图片
+
+<h2 id='useful-tools'>实用工具</h2>
 
 [AirPortal](https://airportal.cn/) - 空投快传，文件传输服务
 
