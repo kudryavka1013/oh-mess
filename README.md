@@ -92,6 +92,8 @@
 
 [CSS matic](https://www.cssmatic.com/) - CSS渐变、边框、背景杂化、阴影在线调试工具
 
+[VIVID GRADIENT GENERATOR TOOL](https://www.learnui.design/tools/gradient-generator.html) ⭐ - 更好的CSS渐变工具，过渡更加自然，有介绍为什么传统的渐变总会有一块灰色区域
+
 <h3 id='design'>设计与配色</h3>
 
 [Adobe Color](https://color.adobe.com/zh/create/color-wheel) - Adobe配色轮盘，除此之外还有配色方案、色彩对比检查工具等
