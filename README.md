@@ -26,7 +26,7 @@
 
 ##### 字库
 
-[UNCUT](https://uncut.wtf/) - 除了常规的sans serif，serif，monospace字体外，还收录了一些长相奇特的display英文字体；基本都是开源字体，但协议各有不同。
+[UNCUT](https://uncut.wtf/) - 除了常规的 sans serif，serif，monospace 字体外，还收录了一些长相奇特的 display 英文字体；基本都是开源字体，但协议各有不同。
 
 [FREE FONTS](https://www.freefonts.io/) - 收录各类免费个人使用的英文字体
 
@@ -38,7 +38,7 @@
 
 [站酷字库](https://www.zcool.com.cn/special/zcoolfonts/) - 免费可商用字体，质量很高
 
-[Nerd Fonts](https://www.nerdfonts.com/font-downloads) - 给编程字体加入字体图标库（[看这里](https://www.nerdfonts.com/#home)），用以给开发人员对IDE和命令行搞美化之类的骚操作
+[Nerd Fonts](https://www.nerdfonts.com/font-downloads) - 给编程字体加入字体图标库（[看这里](https://www.nerdfonts.com/#home)），用以给开发人员对 IDE 和命令行搞美化之类的骚操作
 
 [猫啃网](https://www.maoken.com/) - 免费可商用中英文字体，还有一些手写体和特殊字体，比较全
 
@@ -52,7 +52,9 @@
 
 [Assassin](https://www.dafont.com/assassin.font) - 刺客信条风格字体，怎么说呢，就很新奇
 
-[Input](https://input.djr.com/) - 专为coding设计的字体
+[Input](https://input.djr.com/) - 专为coding 设计的字体
+
+[AI字体家](https://www.ai.zitijia.com/list/1) - AI 写字，有每日免费额度
 
 <h3 id='icons'>图标</h3>
 
