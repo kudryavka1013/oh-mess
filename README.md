@@ -52,7 +52,7 @@
 
 [Assassin](https://www.dafont.com/assassin.font) - 刺客信条风格字体，怎么说呢，就很新奇
 
-[Input](https://input.djr.com/) - 专为coding 设计的字体
+[Input](https://input.djr.com/) - 专为 coding 设计的字体
 
 [AI字体家](https://www.ai.zitijia.com/list/1) - AI 写字，有每日免费额度
 
@@ -62,17 +62,17 @@
 
 [FONT AWESOME](https://fontawesome.com/search) - 经典的图标库，23.03推出了新版本v6，已经有2000余个图标，风格统一，质量优秀
 
-[pictogrammers](https://pictogrammers.com/libraries/) - 收纳三款 MaterialDesign 图标，其中 MemoryIcons 是低分辨率图标，比较少见
+[pictogrammers](https://pictogrammers.com/libraries/) - 收纳三款 MaterialDesign 图标，其中 MemoryIcons 是低分辨率像素图标，比较少见
 
 [iconfont](https://www.iconfont.cn/) - 阿里巴巴矢量图标库，体验一般，需要登录，放在这里凑个数。个人感觉交互逻辑不太聪明
 
-[Material Icons](https://fonts.google.com/icons) - Google的图标库
+[Material Icons](https://fonts.google.com/icons) - Google 的图标库
 
 [Iconbuddy](https://iconbuddy.app/) - 图标库，各种格式大小可直接复制、下载
 
 <h3 id='color'>配色</h3>
 
-[Adobe Color](https://color.adobe.com/zh/create/color-wheel) - Adobe配色轮盘，除此之外还有配色方案、色彩对比检查工具等
+[Adobe Color](https://color.adobe.com/zh/create/color-wheel) - Adobe 配色轮盘，除此之外还有配色方案、色彩对比检查工具等
 
 [NIPPON COLORS](https://nipponcolors.com/) - 日本传统色彩收录
 
@@ -82,7 +82,7 @@
 
 [ColorSpace](https://mycolor.space/) - 渐变色背景实时预览，支持双色和三色渐变
 
-[WebGradients](https://webgradients.com/) - 收录了180种渐变色的配色方案
+[WebGradients](https://webgradients.com/) - 收录了 180 种渐变色的配色方案
 
 [Pattern Generator](https://doodad.dev/pattern-generator/) - 快速生成一些循环图案，适合用作背景图
 
@@ -94,7 +94,7 @@
 
 [Markdown语法速查](https://markdown.com.cn/cheat-sheet.html)
 
-[can i use](https://caniuse.com/) - 检查各类WebAPI在各浏览器环境的兼容情况
+[can i use](https://caniuse.com/) - 检查各类 WebAPI 在各浏览器环境的兼容情况
 
 [Open Source Licenses](https://choosealicense.com/licenses/) - 常见开源证书的介绍，并提供一键复制使用
 
@@ -102,23 +102,23 @@
 
 <h2 id='dev-tools'>开发工具</h2>
 
-[jsDelivr](https://www.jsdelivr.com/) - CDN服务
+[jsDelivr](https://www.jsdelivr.com/) - CDN 服务
 
-[BootCDN](https://www.bootcdn.cn/) - CDN服务
+[BootCDN](https://www.bootcdn.cn/) - CDN 服务
 
 [RegExr](https://regexr.com/) - 正则在线编写测试，提供了可视化和高亮提示
 
 [JsonBird](https://bird.ioliu.cn/) - 远程数据接口代理服务
 
-[Codepen](https://codepen.io/pen/) - 在线HTML，CSS，JS代码编写测试
+[Codepen](https://codepen.io/pen/) - 在线 HTML，CSS，JS 代码编写测试
 
 [CSS Layout Generator](https://layout.bradwoods.io/) - 快速生成CSS布局
 
 [fastmock](https://www.fastmock.site/#/) - 在线接口 MOCK 平台
 
-[CSS matic](https://www.cssmatic.com/) - CSS渐变、边框、背景杂化、阴影在线调试工具
+[CSS matic](https://www.cssmatic.com/) - CSS 渐变、边框、背景杂化、阴影在线调试工具
 
-[VIVID GRADIENT GENERATOR TOOL](https://www.learnui.design/tools/gradient-generator.html) ⭐ - 更好的CSS渐变工具，过渡更加自然，有介绍为什么传统的渐变总会有一块灰色区域
+[VIVID GRADIENT GENERATOR TOOL](https://www.learnui.design/tools/gradient-generator.html) ⭐ - 更好的 CSS 渐变工具，过渡更加自然，有介绍为什么传统的渐变总会有一块灰色区域
 
 [Badgen](https://badgen.net/) - 徽标生成工具，常见于各种 readme.md
 
@@ -134,7 +134,7 @@
 
 <h2 id='toys'>花里胡哨的小玩意</h2>
 
-[Notion 风格头像制作](https://notion-avatar.vercel.app/zh) - 可以自定义或随机生成Notion头像并导出，可用在博客文章里
+[Notion 风格头像制作](https://notion-avatar.vercel.app/zh) - 可以自定义或随机生成 Notion 头像并导出，可用在博客文章里
 
 [红字白字生成器](https://yurafuca.com/5000choyen/index_cn.html) - **“想要5000兆圆！”** 本人不太了解[梗的出处](https://zh.moegirl.org.cn/zh-tw/%E6%83%B3%E8%A6%815000%E5%85%86%E5%9C%86!)，第一次接触是在赛马娘的名梗 ~~（我好想和大和赤骥XX.jpg）~~。[此处是另一个链接](https://auri.ga/5000generator/)
 
@@ -146,9 +146,9 @@
 
 [流浪地球2倒计时生成](https://lab.wsm.ink/the-wandering-earth-2-countdown/#/) - 距离吃到九转大肠还有30秒
 
-[Jellylade](https://app.jellylade.com/) - 给图片添加一个大背景，比如iPhone，iPad，浏览器窗口等，做一些预览效果图还可以
+[Jellylade](https://app.jellylade.com/) - 给图片添加一个大背景，比如 iPhone，iPad，浏览器窗口等，做一些预览效果图还可以
 
-[CSS Trick Border](https://kovart.github.io/dashed-border-generator/) - 使用background-image实现css边框效果
+[CSS Trick Border](https://kovart.github.io/dashed-border-generator/) - 使用 background-image 实现 css 边框效果
 
 [snappify](https://snappify.com/editor) - 给你的代码加上漂亮的背景，并导出为图片
 
@@ -160,11 +160,11 @@
 
 [白描](https://web.baimiaoapp.com/) ⭐ - 免费OCR工具，有多平台支持；可识别文字、公式、EXCEL等
 
-[OLOCR](https://olocr.com/zh-CN) - 免费OCR工具，讲道理精度一般
+[OLOCR](https://olocr.com/zh-CN) - 免费 OCR 工具，讲道理精度一般
 
 [LocalSend](https://localsend.org/#/) ⭐ - 局域网文件传输工具
 
-[TinyPNG](https://tinypng.com/) ⭐ - WebP、PNG、JPEG图片压缩工具
+[TinyPNG](https://tinypng.com/) ⭐ - WebP、PNG、JPEG 图片压缩工具
 
 [Excalidraw](https://excalidraw.com/) - 手绘风格的在线流程图画板工具
 
