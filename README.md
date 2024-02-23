@@ -15,6 +15,7 @@
 - [各种资源及检索工具](#resources)
 - [花里胡哨的小玩意](#toys)
 - [实用工具](#useful-tools)
+- [各种文章收录](#article)
 
 ---
 <h2 id='design'>设计资源</h3>
@@ -164,3 +165,7 @@
 [TinyPNG](https://tinypng.com/) ⭐ - WebP、PNG、JPEG图片压缩工具
 
 [Excalidraw](https://excalidraw.com/) - 手绘风格的在线流程图画板工具
+
+<h2 id='article'>各种文章收录</h2>
+
+[中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
