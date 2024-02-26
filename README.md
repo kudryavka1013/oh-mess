@@ -12,6 +12,8 @@
   - [配色](#color)
 - [开发字典类](#reference-books)
 - [开发工具类](#dev-tools)
+  - [CDN服务](#cdn)
+  - [前端工具](#front-end-tools)
 - [各种资源及检索工具](#resources)
 - [花里胡哨的小玩意](#toys)
 - [实用工具](#useful-tools)
@@ -20,7 +22,7 @@
 ---
 <h2 id='design'>设计资源</h3>
 
-<h3 id='fonts'>字体字库</h4>
+<h3 id='fonts'>字体字库</h3>
 
 > 字体使用有风险，注意规避版权问题
 
@@ -102,11 +104,15 @@
 
 <h2 id='dev-tools'>开发工具</h2>
 
-[jsDelivr](https://www.jsdelivr.com/) - CDN 服务
+<h3 id='cdn'>CDN 服务</h3>
 
-[BootCDN](https://www.bootcdn.cn/) - CDN 服务
+[jsDelivr](https://www.jsdelivr.com/)
 
-[cdnjs](https://cdnjs.com/) - CDN 服务
+[BootCDN](https://www.bootcdn.cn/)
+
+[cdnjs](https://cdnjs.com/)
+
+<h3 id='front-end-tools'>前端工具</h3>
 
 [RegExr](https://regexr.com/) - 正则在线编写测试，提供了可视化和高亮提示
 
