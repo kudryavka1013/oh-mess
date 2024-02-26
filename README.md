@@ -10,12 +10,12 @@
   - [字体字库](#fonts)
   - [图标](#icons)
   - [配色](#color)
-- [开发字典类](#reference-books)
-- [开发工具类](#dev-tools)
+- [开发工具集](#dev-tools)
   - [CDN服务](#cdn)
   - [前端工具](#front-end-tools)
+  - [通用字典和工具](#reference-books)
 - [各种资源及检索工具](#resources)
-- [花里胡哨的小玩意](#toys)
+- [花里胡哨小玩意](#toys)
 - [实用工具](#useful-tools)
 - [各种文章收录](#article)
 
@@ -92,17 +92,7 @@
 
 [Trianglify.io](https://trianglify.io/) - 低多边形图案生成工具，适合用来做背景图
 
-<h2 id='reference-books'>开发字典</h2>
-
-[Markdown语法速查](https://markdown.com.cn/cheat-sheet.html)
-
-[can i use](https://caniuse.com/) - 检查各类 WebAPI 在各浏览器环境的兼容情况
-
-[Open Source Licenses](https://choosealicense.com/licenses/) - 常见开源证书的介绍，并提供一键复制使用
-
-[语义化版本 2.0.0](https://semver.org/lang/zh-CN/) - 介绍了软件开发项目版本控制规范
-
-<h2 id='dev-tools'>开发工具</h2>
+<h2 id='dev-tools'>开发工具集</h2>
 
 <h3 id='cdn'>CDN 服务</h3>
 
@@ -118,15 +108,25 @@
 
 [JsonBird](https://bird.ioliu.cn/) - 远程数据接口代理服务
 
+[fastmock](https://www.fastmock.site/#/) - 在线接口 MOCK 平台
+
 [Codepen](https://codepen.io/pen/) - 在线 HTML，CSS，JS 代码编写测试
 
 [CSS Layout Generator](https://layout.bradwoods.io/) - 快速生成CSS布局
 
-[fastmock](https://www.fastmock.site/#/) - 在线接口 MOCK 平台
-
 [CSS matic](https://www.cssmatic.com/) - CSS 渐变、边框、背景杂化、阴影在线调试工具
 
 [VIVID GRADIENT GENERATOR TOOL](https://www.learnui.design/tools/gradient-generator.html) ⭐ - 更好的 CSS 渐变工具，过渡更加自然，有介绍为什么传统的渐变总会有一块灰色区域
+
+<h3 id='reference-books'>通用字典</h3>
+
+[Markdown语法速查](https://markdown.com.cn/cheat-sheet.html)
+
+[can i use](https://caniuse.com/) - 检查各类 WebAPI 在各浏览器环境的兼容情况
+
+[Open Source Licenses](https://choosealicense.com/licenses/) - 常见开源证书的介绍，并提供一键复制使用
+
+[语义化版本 2.0.0](https://semver.org/lang/zh-CN/) - 介绍了软件开发项目版本控制规范
 
 [Badgen](https://badgen.net/) - 徽标生成工具，常见于各种 readme.md
 
@@ -140,7 +140,7 @@
 
 [MSDN,itellyou](https://msdn.itellyou.cn/) - 收录了各版本操作系统镜像、开发设计类应用软件等技术资源
 
-<h2 id='toys'>花里胡哨的小玩意</h2>
+<h2 id='toys'>花里胡哨小玩意</h2>
 
 [Notion 风格头像制作](https://notion-avatar.vercel.app/zh) - 可以自定义或随机生成 Notion 头像并导出，可用在博客文章里
 
