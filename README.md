@@ -48,6 +48,8 @@
 
 [【這李設計】的收集](https://www.figma.com/community/file/1256555346586156735) - 某设计师整理的免费商用字体库，文章来自[少数派](https://sspai.com/post/80926)
 
+[AI字体家](https://www.ai.zitijia.com/list/1) - AI 写字，有每日免费额度
+
 ##### 字体
 
 [LXGW](https://lxgw.github.io/) ⭐ - 霞鹜开源中文字体，来源于日文字体。一系列使用起来非常舒适的字体，可以用在博客等各种阅读场景
@@ -55,8 +57,6 @@
 [Assassin](https://www.dafont.com/assassin.font) - 刺客信条风格字体，怎么说呢，就很新奇
 
 [Input](https://input.djr.com/) - 专为 coding 设计的字体
-
-[AI字体家](https://www.ai.zitijia.com/list/1) - AI 写字，有每日免费额度
 
 <h3 id='icons'>图标</h3>
 
