@@ -106,6 +106,8 @@
 
 [BootCDN](https://www.bootcdn.cn/) - CDN 服务
 
+[cdnjs](https://cdnjs.com/) - CDN 服务
+
 [RegExr](https://regexr.com/) - 正则在线编写测试，提供了可视化和高亮提示
 
 [JsonBird](https://bird.ioliu.cn/) - 远程数据接口代理服务
