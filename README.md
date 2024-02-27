@@ -153,9 +153,11 @@
 
 [EVA标题生成器](https://lab.magiconch.com/eva-title/) ⭐ - 新世纪福音战士标题生成器，还支持各种排版，只能说很有那味了；也在神奇海螺试验场里
 
-[流浪地球2倒计时生成](https://lab.wsm.ink/the-wandering-earth-2-countdown/#/) - 距离吃到九转大肠还有30秒
+[流浪地球2倒计时生成](https://lab.wsm.ink/the-wandering-earth-2-countdown/#/) - 距离吃到九转大肠还有 30 秒
 
-[infinitemac](https://infinitemac.org/) - 在浏览器上体验各个年代的Mac机器
+[infinitemac](https://infinitemac.org/) - 在浏览器上体验各个年代的 Mac 机器
+
+[预告信生成器](https://yuluoxk.cn/p5/) - 女神异闻录 5 预告信生成器
 
 <h2 id='useful-tools'>实用工具</h2>
 
