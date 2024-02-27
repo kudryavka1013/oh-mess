@@ -155,11 +155,7 @@
 
 [流浪地球2倒计时生成](https://lab.wsm.ink/the-wandering-earth-2-countdown/#/) - 距离吃到九转大肠还有30秒
 
-[Jellylade](https://app.jellylade.com/) - 给图片添加一个大背景，比如 iPhone，iPad，浏览器窗口等，做一些预览效果图还可以
-
-[CSS Trick Border](https://kovart.github.io/dashed-border-generator/) - 使用 background-image 实现 css 边框效果
-
-[snappify](https://snappify.com/editor) - 给你的代码加上漂亮的背景，并导出为图片
+[infinitemac](https://infinitemac.org/) - 在浏览器上体验各个年代的Mac机器
 
 <h2 id='useful-tools'>实用工具</h2>
 
@@ -176,6 +172,12 @@
 [TinyPNG](https://tinypng.com/) ⭐ - WebP、PNG、JPEG 图片压缩工具
 
 [Excalidraw](https://excalidraw.com/) - 手绘风格的在线流程图画板工具
+
+[Jellylade](https://app.jellylade.com/) - 给图片添加一个大背景，比如 iPhone，iPad，浏览器窗口等，做一些预览效果图还可以
+
+[CSS Trick Border](https://kovart.github.io/dashed-border-generator/) - 使用 background-image 实现 css 边框效果
+
+[snappify](https://snappify.com/editor) - 给你的代码加上漂亮的背景，并导出为图片
 
 <h2 id='article'>各种文章收录</h2>
 
