@@ -18,6 +18,7 @@
 - [花里胡哨小玩意](#toys)
 - [实用工具](#useful-tools)
 - [各种文章收录](#article)
+- [前端技能训练](#practice)
 
 ---
 <h2 id='design'>设计资源</h3>
@@ -181,3 +182,8 @@
 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md) - 空格拯救强迫症系列
 
 [低价土耳其iCloud指南](https://btsogiwudc.feishu.cn/docx/CgoJdHyWKopl3UxV12GcG3psnjf) - 手把手教你薅苹果的羊毛
+
+<h2 id='practice'>前端技能锻炼</h2>
+
+[TypeHero](https://typehero.dev/) - TypeScript 类型体操
+
