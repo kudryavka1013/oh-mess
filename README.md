@@ -181,7 +181,7 @@
 
 [snappify](https://snappify.com/editor) - 给你的代码加上漂亮的背景，并导出为图片
 
-[pixelartcss](https://pixelartcss.com/) - 在线像素画绘制，可导出为 CSS 代码
+[pixelartcss](https://pixelartcss.com/) - 在线像素画绘制，可导出图片或 CSS 代码
 
 <h2 id='article'>文章收录</h2>
 
