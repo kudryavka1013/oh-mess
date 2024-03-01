@@ -138,7 +138,7 @@
 
 [Minecraft Sounds](https://o.xbottle.top/mcsounds/) - 我的世界音效集合
 
-[MSDN,itellyou](https://msdn.itellyou.cn/) - 收录了各版本操作系统镜像、开发设计类应用软件等技术资源
+[MSDN, i tell you](https://msdn.itellyou.cn/) - 收录了各版本操作系统镜像、开发设计类应用软件等技术资源
 
 <h2 id='toys'>花里胡哨小玩意</h2>
 
