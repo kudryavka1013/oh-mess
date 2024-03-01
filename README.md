@@ -183,6 +183,8 @@
 
 [pixelartcss](https://pixelartcss.com/) - 在线像素画绘制，可导出图片或 CSS 代码
 
+[FontMagic](https://github.com/leibnizli/fontmagic/blob/main/README-zh-CN.md) - 字体文件处理、提取软件，多平台支持
+
 <h2 id='article'>文章收录</h2>
 
 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md) - 空格拯救强迫症系列
