@@ -19,7 +19,7 @@
 - [花里胡哨小玩意](#toys)
 - [实用工具](#useful-tools)
 - [各种文章收录](#article)
-- [前端技能训练](#practice)
+- [前端技能](#practice)
 
 ---
 <h2 id='design'>设计资源</h3>
@@ -196,7 +196,7 @@
 
 [Greasy Fork](https://greasyfork.org/zh-CN) - 油猴插件网站
 
-<h2 id='practice'>前端技能锻炼</h2>
+<h2 id='practice'>前端技能</h2>
 
 [TypeHero](https://typehero.dev/) - TypeScript 类型体操
 
