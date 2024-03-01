@@ -15,7 +15,7 @@
   - [CDN服务](#cdn)
   - [前端工具](#front-end-tools)
   - [通用字典和工具](#reference-books)
-- [各种资源及检索工具](#resources)
+- [资源检索](#resources)
 - [花里胡哨小玩意](#toys)
 - [实用工具](#useful-tools)
 - [各种文章收录](#article)
@@ -132,7 +132,7 @@
 
 [ShieldsIO](https://shields.io/) - 徽标生成工具，支持不同的样式风格
 
-<h2 id='resources'>各种资源及检索工具</h2>
+<h2 id='resources'>资源检索</h2>
 
 [二次元图片检索](https://ascii2d.net/) - 支持本地上传和在线链接检索，R18警告
 
