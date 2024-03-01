@@ -7,7 +7,8 @@
 <h2 id='catalog'>目录</h2>
 
 - [设计资源](#design)
-  - [字体字库](#fonts)
+  - [字库](#fonts-lib)
+  - [字体](#fonts)
   - [图标](#icons)
   - [配色](#color)
 - [开发工具集](#dev-tools)
@@ -23,11 +24,9 @@
 ---
 <h2 id='design'>设计资源</h3>
 
-<h3 id='fonts'>字体字库</h3>
+<h3 id='fonts-lib'>字库</h3>
 
 > 字体使用有风险，注意规避版权问题
-
-##### 字库
 
 [UNCUT](https://uncut.wtf/) - 除了常规的 sans serif，serif，monospace 字体外，还收录了一些长相奇特的 display 英文字体；基本都是开源字体，但协议各有不同。
 
@@ -51,7 +50,7 @@
 
 [AI字体家](https://www.ai.zitijia.com/list/1) - AI 写字，有每日免费额度
 
-##### 字体
+<h3 id='fonts'>字体</h3>
 
 [LXGW](https://lxgw.github.io/) ⭐ - 霞鹜开源中文字体，来源于日文字体。一系列使用起来非常舒适的字体，可以用在博客等各种阅读场景
 
