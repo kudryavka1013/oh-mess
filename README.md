@@ -169,6 +169,8 @@
 
 [OLOCR](https://olocr.com/zh-CN) - 免费 OCR 工具，讲道理精度一般
 
+[Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - 开源、免费的离线OCR软件
+
 [LocalSend](https://localsend.org/#/) ⭐ - 局域网文件传输工具
 
 [TinyPNG](https://tinypng.com/) ⭐ - WebP、PNG、JPEG 图片压缩工具
