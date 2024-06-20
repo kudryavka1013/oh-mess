@@ -15,6 +15,7 @@
   - [CDN服务](#cdn)
   - [前端工具](#front-end-tools)
   - [通用字典和工具](#reference-books)
+  - [库](#lib)
 - [资源检索](#resources)
 - [花里胡哨小玩意](#toys)
 - [实用工具](#useful-tools)
@@ -132,6 +133,13 @@
 
 [ShieldsIO](https://shields.io/) - 徽标生成工具，支持不同的样式风格
 
+<h3 id='lib'>库</h3>
+
+[Monaco Editor](https://microsoft.github.io/monaco-editor/) - VSCODE 使用的 Web 代码编辑器
+
+[Code Mirror](https://codemirror.net/) - Web 代码编辑器
+
+
 <h2 id='resources'>资源检索</h2>
 
 [二次元图片检索](https://ascii2d.net/) - 支持本地上传和在线链接检索，R18警告
@@ -185,6 +193,10 @@
 [pixelartcss](https://pixelartcss.com/) - 在线像素画绘制，可导出图片或 CSS 代码
 
 [FontMagic](https://github.com/leibnizli/fontmagic/blob/main/README-zh-CN.md) - 字体文件处理、提取软件，多平台支持
+
+[MemoCard](https://memocard.net/) - 文字卡片生成工具
+
+[ImageTools](https://ai-image.tools/home) - AI 去除图片背景，可支持人像和物体背景去除
 
 <h2 id='article'>文章收录</h2>
 
