@@ -208,6 +208,10 @@
 
 [在线Excel项目到底有多刺激](http://www.godbasin.com/front-end-basic/deep-learning/why-spreadsheet-app-excited.html)
 
+[如履薄冰的复制粘贴](https://juejin.cn/post/6903698870694313991)
+
+[execCommands在线测试](https://codepen.io/chrisdavidmills/full/gzYjag/)
+
 <h2 id='site'>网站收录</h2>
 
 [Greasy Fork](https://greasyfork.org/zh-CN) - 油猴插件网站
