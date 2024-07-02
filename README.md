@@ -25,11 +25,12 @@
 🔨 [实用工具](#useful-tools)
 
 📝 [文章收录](#article)
+  - [天坑系列：富文本编辑](#rich-text)
 
 🚀 [前端技能](#practice)
 
 ---
-<h2 id='design'>设计资源</h3>
+<h2 id='design'>💡 设计资源</h3>
 
 <h3 id='fonts-lib'>字库</h3>
 
@@ -99,7 +100,7 @@
 
 [Trianglify.io](https://trianglify.io/) - 低多边形图案生成工具，适合用来做背景图
 
-<h2 id='dev-tools'>开发工具集</h2>
+<h2 id='dev-tools'>🛴 开发工具集</h2>
 
 <h3 id='cdn'>CDN 服务</h3>
 
@@ -145,8 +146,7 @@
 
 [Code Mirror](https://codemirror.net/) - Web 代码编辑器
 
-
-<h2 id='resources'>资源检索</h2>
+<h2 id='resources'>🔍 资源检索</h2>
 
 [二次元图片检索](https://ascii2d.net/) - 支持本地上传和在线链接检索，R18警告
 
@@ -154,7 +154,7 @@
 
 [MSDN, i tell you](https://msdn.itellyou.cn/) - 收录了各版本操作系统镜像、开发设计类应用软件等技术资源
 
-<h2 id='toys'>花里胡哨小玩意</h2>
+<h2 id='toys'>⭐ 花里胡哨小玩意</h2>
 
 [Notion 风格头像制作](https://notion-avatar.vercel.app/zh) - 可以自定义或随机生成 Notion 头像并导出，可用在博客文章里
 
@@ -172,7 +172,7 @@
 
 [预告信生成器](https://yuluoxk.cn/p5/) - 女神异闻录 5 预告信生成器
 
-<h2 id='useful-tools'>实用工具</h2>
+<h2 id='useful-tools'>🔨 实用工具</h2>
 
 [AirPortal](https://airportal.cn/) - 空投快传，文件传输服务
 
@@ -204,13 +204,15 @@
 
 [ImageTools](https://ai-image.tools/home) - AI 去除图片背景，可支持人像和物体背景去除
 
-<h2 id='article'>文章收录</h2>
+[Greasy Fork](https://greasyfork.org/zh-CN) - 油猴插件网站
+
+<h2 id='article'>📝 文章收录</h2>
 
 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md) - 空格拯救强迫症系列
 
 [低价土耳其iCloud指南](https://btsogiwudc.feishu.cn/docx/CgoJdHyWKopl3UxV12GcG3psnjf) - 手把手教你薅苹果的羊毛
 
-<h3 id='richText'>天坑系列：富文本编辑</h3>
+<h3 id='rich-text'>天坑系列：富文本编辑</h3>
 
 [在线Excel项目到底有多刺激](http://www.godbasin.com/front-end-basic/deep-learning/why-spreadsheet-app-excited.html)
 
@@ -220,11 +222,7 @@
 
 [重学编辑器](https://zhuanlan.zhihu.com/p/628368456)
 
-<h2 id='site'>网站收录</h2>
-
-[Greasy Fork](https://greasyfork.org/zh-CN) - 油猴插件网站
-
-<h2 id='practice'>前端技能</h2>
+<h2 id='practice'>🚀 前端技能</h2>
 
 [TypeHero](https://typehero.dev/) - TypeScript 类型体操
 
