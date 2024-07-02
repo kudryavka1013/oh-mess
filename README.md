@@ -225,6 +225,8 @@
 
 [重学编辑器](https://zhuanlan.zhihu.com/p/628368456)
 
+[Why ContentEditable is Terrible](https://medium.engineering/why-contenteditable-is-terrible-122d8a40e480) - 讲述了 ContentEditable 在富文本操作里的恶心之处
+
 <h2 id='practice'>🚀 前端技能</h2>
 
 [TypeHero](https://typehero.dev/) - TypeScript 类型体操
