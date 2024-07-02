@@ -227,6 +227,8 @@
 
 [Why ContentEditable is Terrible](https://medium.engineering/why-contenteditable-is-terrible-122d8a40e480) - 讲述了 ContentEditable 在富文本操作里的恶心之处
 
+[Text Editing Hates You Too](https://lord.io/text-editing-hates-you-too/) - 举例富文本编辑中由诸如emoji、输入法等特殊场景引发的种种问题
+
 <h2 id='practice'>🚀 前端技能</h2>
 
 [TypeHero](https://typehero.dev/) - TypeScript 类型体操
