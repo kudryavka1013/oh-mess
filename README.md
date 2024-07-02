@@ -204,7 +204,7 @@
 
 [低价土耳其iCloud指南](https://btsogiwudc.feishu.cn/docx/CgoJdHyWKopl3UxV12GcG3psnjf) - 手把手教你薅苹果的羊毛
 
-<h3 id='richText'>天坑：富文本编辑</h3>
+<h3 id='richText'>天坑系列：富文本编辑</h3>
 
 [在线Excel项目到底有多刺激](http://www.godbasin.com/front-end-basic/deep-learning/why-spreadsheet-app-excited.html)
 
