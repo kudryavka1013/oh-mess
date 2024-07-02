@@ -25,7 +25,8 @@
 🔨 [实用工具](#useful-tools)
 
 📝 [文章收录](#article)
-  - [天坑系列：富文本编辑](#rich-text)
+  - [开发素养](#standard)
+  - [前端天坑：富文本编辑](#rich-text)
 
 🚀 [前端技能](#practice)
 
@@ -208,11 +209,13 @@
 
 <h2 id='article'>📝 文章收录</h2>
 
-[中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md) - 空格拯救强迫症系列
-
 [低价土耳其iCloud指南](https://btsogiwudc.feishu.cn/docx/CgoJdHyWKopl3UxV12GcG3psnjf) - 手把手教你薅苹果的羊毛
 
-<h3 id='rich-text'>天坑系列：富文本编辑</h3>
+<h3 id='standard'>开发素养</h3>
+
+[中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md) - 空格拯救强迫症系列
+
+<h3 id='rich-text'>前端天坑：富文本编辑</h3>
 
 [在线Excel项目到底有多刺激](http://www.godbasin.com/front-end-basic/deep-learning/why-spreadsheet-app-excited.html)
 
