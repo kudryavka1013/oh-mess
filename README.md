@@ -19,7 +19,7 @@
 - [资源检索](#resources)
 - [花里胡哨小玩意](#toys)
 - [实用工具](#useful-tools)
-- [各种文章收录](#article)
+- [文章收录](#article)
 - [前端技能](#practice)
 
 ---
