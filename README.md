@@ -212,6 +212,8 @@
 
 [execCommands在线测试](https://codepen.io/chrisdavidmills/full/gzYjag/)
 
+[重学编辑器](https://zhuanlan.zhihu.com/p/628368456)
+
 <h2 id='site'>网站收录</h2>
 
 [Greasy Fork](https://greasyfork.org/zh-CN) - 油猴插件网站
