@@ -147,6 +147,8 @@
 
 [Code Mirror](https://codemirror.net/) - Web 代码编辑器
 
+[howler.js](https://howlerjs.com/) - Web audio 库
+
 <h2 id='resources'>🔍 资源检索</h2>
 
 [二次元图片检索](https://ascii2d.net/) - 支持本地上传和在线链接检索，R18警告
