@@ -231,6 +231,12 @@
 
 [Text Editing Hates You Too](https://lord.io/text-editing-hates-you-too/) - 举例富文本编辑中由诸如emoji、输入法等特殊场景引发的种种问题
 
+[谈谈浏览器中富文本编辑器的技术演进](https://mp.weixin.qq.com/s/8TSxm2q0kQrVA9AaUE0I7g)
+
+[有道云笔记跨平台富文本编辑器的技术演进](https://sq.sf.163.com/blog/article/168068797113712640)
+
+[富文本编辑器 wangEditor5 多级列表 - 设计与实现](https://juejin.cn/post/7152330067706642445)
+
 <h2 id='practice'>🚀 前端技能</h2>
 
 [TypeHero](https://typehero.dev/) - TypeScript 类型体操
