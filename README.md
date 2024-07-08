@@ -213,6 +213,8 @@
 
 [2023 年每个软件开发者都必须知道的关于 Unicode 的基本知识](https://blog.xinshijiededa.men/unicode/)
 
+[CSS 幻术 | 抗锯齿](https://lionad.art/articles/css-poaa)
+
 [低价土耳其iCloud指南](https://btsogiwudc.feishu.cn/docx/CgoJdHyWKopl3UxV12GcG3psnjf) - 手把手教你薅苹果的羊毛
 
 <h3 id='standard'>开发素养</h3>
