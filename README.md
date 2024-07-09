@@ -223,7 +223,7 @@
 
 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md) - 空格拯救强迫症系列
 
-[重构: 改善既有代码设计](https://book-refactoring2.ifmicro.com/docs/) - 重构有益身心健康~
+[重构：改善既有代码设计](https://book-refactoring2.ifmicro.com/docs/) - 重构有益身心健康~
 
 <h3 id='rich-text'>前端天坑：富文本编辑</h3>
 
