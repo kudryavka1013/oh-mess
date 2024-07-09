@@ -215,6 +215,8 @@
 
 [CSS 幻术 | 抗锯齿](https://lionad.art/articles/css-poaa)
 
+[从 Fetch 到 Streams —— 以流的角度处理网络请求](https://juejin.cn/post/6844904029244358670)
+
 [低价土耳其iCloud指南](https://btsogiwudc.feishu.cn/docx/CgoJdHyWKopl3UxV12GcG3psnjf) - 手把手教你薅苹果的羊毛
 
 <h3 id='standard'>开发素养</h3>
