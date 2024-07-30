@@ -1,6 +1,6 @@
 # 杂物间
 
-该项目用于收录各种网站和工具，本质上来说是个书签 Pro Max Ultra 版
+该项目用于收录各种网站和工具，本质上来说是个书签
 
 ![badge](https://img.shields.io/badge/State-might_be_useful-orange?style=for-the-badge)
 
