@@ -27,6 +27,7 @@
 📝 [文章收录](#article)
   - [开发素养](#standard)
   - [前端天坑：富文本编辑](#rich-text)
+  - [杂七杂八](#life)
 
 🚀 [前端技能](#practice)
 
@@ -217,7 +218,7 @@
 
 [从 Fetch 到 Streams —— 以流的角度处理网络请求](https://juejin.cn/post/6844904029244358670)
 
-[低价土耳其iCloud指南](https://btsogiwudc.feishu.cn/docx/CgoJdHyWKopl3UxV12GcG3psnjf) - 手把手教你薅苹果的羊毛
+[每周轮子之 husky：统一规范团队 Git Hooks](https://4ark.me/post/weekly-npm-packages-02.html/)
 
 <h3 id='standard'>开发素养</h3>
 
@@ -244,6 +245,10 @@
 [有道云笔记跨平台富文本编辑器的技术演进](https://sq.sf.163.com/blog/article/168068797113712640)
 
 [富文本编辑器 wangEditor5 多级列表 - 设计与实现](https://juejin.cn/post/7152330067706642445)
+
+<h3 id='life'>杂七杂八</h3>
+
+[低价土耳其iCloud指南](https://btsogiwudc.feishu.cn/docx/CgoJdHyWKopl3UxV12GcG3psnjf) - 手把手教你薅苹果的羊毛
 
 <h2 id='practice'>🚀 前端技能</h2>
 
