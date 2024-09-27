@@ -128,6 +128,8 @@
 
 [VIVID GRADIENT GENERATOR TOOL](https://www.learnui.design/tools/gradient-generator.html) ⭐ - 更好的 CSS 渐变工具，过渡更加自然，有介绍为什么传统的渐变总会有一块灰色区域
 
+[JSON For You](https://github.com/loggerhead/json4u/) ⭐ - 更好的 JSON 解析工具 
+
 <h3 id='reference-books'>通用字典</h3>
 
 [Markdown语法速查](https://markdown.com.cn/cheat-sheet.html)
