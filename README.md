@@ -228,6 +228,8 @@
 
 [重构：改善既有代码设计](https://book-refactoring2.ifmicro.com/docs/) - 重构有益身心健康~
 
+[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
+
 <h3 id='rich-text'>前端天坑：富文本编辑</h3>
 
 [在线Excel项目到底有多刺激](http://www.godbasin.com/front-end-basic/deep-learning/why-spreadsheet-app-excited.html)
