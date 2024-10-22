@@ -146,6 +146,8 @@
 
 [ShieldsIO](https://shields.io/) - 徽标生成工具，支持不同的样式风格
 
+[Office MIME Type 速查](https://learn.microsoft.com/zh-cn/archive/blogs/vsofficedeveloper/office-2007-file-format-mime-types-for-http-content-streaming-2)
+
 <h3 id='lib'>库</h3>
 
 [Monaco Editor](https://microsoft.github.io/monaco-editor/) - VSCODE 使用的 Web 代码编辑器
