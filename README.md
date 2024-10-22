@@ -68,6 +68,8 @@
 
 [Input](https://input.djr.com/) - 专为 coding 设计的字体
 
+[Josefin Sans](https://fonts.google.com/specimen/Josefin+Sans)
+
 <h3 id='icons'>图标</h3>
 
 [ICONS8](https://icons8.com/icons) - 图标库，收纳的图标巨多。不仅支持中英文检索，还可以对图标进行诸如背景色调整，局部颜色调整等自定义操作；同时提供了深色浅色环境预览，这个需要点赞
