@@ -254,7 +254,7 @@
 
 <h3 id='life'>杂七杂八</h3>
 
-[低价土耳其iCloud指南](https://btsogiwudc.feishu.cn/docx/CgoJdHyWKopl3UxV12GcG3psnjf) - 手把手教你薅苹果的羊毛
+~~[低价土耳其iCloud指南](https://btsogiwudc.feishu.cn/docx/CgoJdHyWKopl3UxV12GcG3psnjf) - 手把手教你薅苹果的羊毛~~ 无啦，土耳其区涨价啦
 
 <h2 id='practice'>🚀 前端技能</h2>
 
