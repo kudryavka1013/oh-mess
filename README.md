@@ -68,7 +68,7 @@
 
 [Input](https://input.djr.com/) - 专为 coding 设计的字体
 
-[Josefin Sans](https://fonts.google.com/specimen/Josefin+Sans)
+[Josefin Sans](https://fonts.google.com/specimen/Josefin+Sans) - 比较干净和锐利的字体
 
 <h3 id='icons'>图标</h3>
 
