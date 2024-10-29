@@ -31,6 +31,8 @@
 
 🚀 [前端技能](#practice)
 
+🧭 [其它](#others)
+
 ---
 <h2 id='design'>💡 设计资源</h3>
 
@@ -263,4 +265,8 @@
 <h2 id='practice'>🚀 前端技能</h2>
 
 [TypeHero](https://typehero.dev/) - TypeScript 类型体操
+
+<h2 id='others'>🧭 其它</h2>
+
+[域名信息备案](https://beian.miit.gov.cn/#/Integrated/index)
 
