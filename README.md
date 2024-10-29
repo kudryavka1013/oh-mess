@@ -232,6 +232,8 @@
 
 [初探视频原理和FFmpeg](https://zhuanlan.zhihu.com/p/196765472)
 
+[【专访】 Chrome HEVC 硬解背后的字节开源贡献者](https://juejin.cn/post/7158700639030247460)
+
 <h3 id='standard'>开发素养</h3>
 
 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md) - 空格拯救强迫症系列
