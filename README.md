@@ -226,6 +226,8 @@
 
 [每周轮子之 husky：统一规范团队 Git Hooks](https://4ark.me/post/weekly-npm-packages-02.html/)
 
+[重新認識 Pixel、DPI / PPI 以及像素密度](https://editor.leonh.space/2021/rediscover-pixel-dpi-ppi-and-pixel-density/#app-de-pt-yu-dp)
+
 <h3 id='standard'>开发素养</h3>
 
 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md) - 空格拯救强迫症系列
