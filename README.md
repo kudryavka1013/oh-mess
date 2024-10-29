@@ -266,6 +266,8 @@
 
 ~~[低价土耳其iCloud指南](https://btsogiwudc.feishu.cn/docx/CgoJdHyWKopl3UxV12GcG3psnjf) - 手把手教你薅苹果的羊毛~~ 无啦，土耳其区涨价啦
 
+[盘古之白](https://blog.xiaoquankong.ai/zh/posts/chinese-document-typesetting-specification-spacing-of-pangu/)
+
 <h2 id='practice'>🚀 前端技能</h2>
 
 [TypeHero](https://typehero.dev/) - TypeScript 类型体操
