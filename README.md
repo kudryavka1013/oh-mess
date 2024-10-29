@@ -238,6 +238,8 @@
 
 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md) - 空格拯救强迫症系列
 
+[盘古之白](https://blog.xiaoquankong.ai/zh/posts/chinese-document-typesetting-specification-spacing-of-pangu/) - 同上
+
 [重构：改善既有代码设计](https://book-refactoring2.ifmicro.com/docs/) - 重构有益身心健康~
 
 [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
@@ -266,7 +268,6 @@
 
 ~~[低价土耳其iCloud指南](https://btsogiwudc.feishu.cn/docx/CgoJdHyWKopl3UxV12GcG3psnjf) - 手把手教你薅苹果的羊毛~~ 无啦，土耳其区涨价啦
 
-[盘古之白](https://blog.xiaoquankong.ai/zh/posts/chinese-document-typesetting-specification-spacing-of-pangu/)
 
 <h2 id='practice'>🚀 前端技能</h2>
 
