@@ -186,6 +186,8 @@
 
 [预告信生成器](https://yuluoxk.cn/p5/) - 女神异闻录 5 预告信生成器
 
+[how i experience web today](https://how-i-experience-web-today.com/) - 极其恶毒的 Web 页面
+
 <h2 id='useful-tools'>🔨 实用工具</h2>
 
 [AirPortal](https://airportal.cn/) - 空投快传，文件传输服务
