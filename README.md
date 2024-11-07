@@ -240,6 +240,8 @@
 
 [Git 是怎样生成 diff 的：Myers 算法](https://cjting.me/2017/05/13/how-git-generate-diff/)
 
+[高清 CSS 颜色指南](https://developer.chrome.com/docs/css-ui/high-definition-css-color-guide?hl=zh-cn) - 并非色盲
+
 <h3 id='standard'>开发素养</h3>
 
 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md) - 空格拯救强迫症系列
