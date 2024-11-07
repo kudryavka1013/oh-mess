@@ -242,6 +242,10 @@
 
 [高清 CSS 颜色指南](https://developer.chrome.com/docs/css-ui/high-definition-css-color-guide?hl=zh-cn) - 并非色盲
 
+[What really happens when you navigate to a URL](https://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/)
+
+[How browsers work](https://web.dev/articles/howbrowserswork)
+
 <h3 id='standard'>开发素养</h3>
 
 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md) - 空格拯救强迫症系列
