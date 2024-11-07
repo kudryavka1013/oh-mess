@@ -254,6 +254,8 @@
 
 [Vim 入门](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/table-of-contents)
 
+[22种设计模式](https://refactoringguru.cn/design-patterns/catalog)
+
 <h3 id='rich-text'>前端天坑：富文本编辑</h3>
 
 [在线Excel项目到底有多刺激](http://www.godbasin.com/front-end-basic/deep-learning/why-spreadsheet-app-excited.html)
