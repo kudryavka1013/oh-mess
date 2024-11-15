@@ -116,7 +116,7 @@
 
 [cdnjs](https://cdnjs.com/)
 
-<h3 id='front-end-tools'>前端工具</h3>
+<h3 id='front-end-tools'>在线工具</h3>
 
 [RegExr](https://regexr.com/) - 正则在线编写测试，提供了可视化和高亮提示
 
@@ -152,13 +152,15 @@
 
 [Media Types](https://www.iana.org/assignments/media-types/media-types.xhtml) - 多媒体的 MIME TYPE 速查
 
-<h3 id='lib'>库</h3>
+<h3 id='lib'>前端开发工具库</h3>
 
 [Monaco Editor](https://microsoft.github.io/monaco-editor/) - VSCODE 使用的 Web 代码编辑器
 
 [Code Mirror](https://codemirror.net/) - Web 代码编辑器
 
 [howler.js](https://howlerjs.com/) - Web audio 库
+
+[classnames](https://github.com/JedWatson/classnames#readme) - classname 组合工具
 
 <h2 id='resources'>🔍 资源检索</h2>
 
