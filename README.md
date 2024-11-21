@@ -262,6 +262,10 @@
 
 [22种设计模式](https://refactoringguru.cn/design-patterns/catalog)
 
+<h3 id='front-base'>前端基础</h3>
+
+[Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
+
 <h3 id='rich-text'>前端天坑：富文本编辑</h3>
 
 [在线Excel项目到底有多刺激](http://www.godbasin.com/front-end-basic/deep-learning/why-spreadsheet-app-excited.html)
