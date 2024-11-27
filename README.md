@@ -64,6 +64,8 @@
 
 [Font Sensei](https://fontsensei.com/zh-cn/tag/all) - Google 免费字体筛选
 
+[Signature](https://signaturegenerator-ai.com/) - AI 生成手写签名
+
 <h3 id='fonts'>字体</h3>
 
 [LXGW](https://lxgw.github.io/) ⭐ - 霞鹜开源中文字体，来源于日文字体。一系列使用起来非常舒适的字体，可以用在博客等各种阅读场景
