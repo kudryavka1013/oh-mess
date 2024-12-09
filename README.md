@@ -252,6 +252,8 @@
 
 [How browsers work](https://web.dev/articles/howbrowserswork)
 
+[There's Such a Thing As Using Too Many Ifs](https://dreith.com/blog/theres-such-a-thing-as-using-too-many-ifs/)
+
 <h3 id='standard'>开发素养</h3>
 
 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md) - 空格拯救强迫症系列
