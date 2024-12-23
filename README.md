@@ -26,6 +26,7 @@
 
 📝 [文章收录](#article)
   - [开发素养](#standard)
+  - [CSS](#css)
   - [前端天坑：富文本编辑](#rich-text)
   - [杂七杂八](#life)
 
@@ -232,25 +233,15 @@
 
 [2023 年每个软件开发者都必须知道的关于 Unicode 的基本知识](https://blog.xinshijiededa.men/unicode/)
 
-[CSS 幻术 | 抗锯齿](https://lionad.art/articles/css-poaa)
-
 [从 Fetch 到 Streams —— 以流的角度处理网络请求](https://juejin.cn/post/6844904029244358670)
 
 [每周轮子之 husky：统一规范团队 Git Hooks](https://4ark.me/post/weekly-npm-packages-02.html/)
-
-[重新認識 Pixel、DPI / PPI 以及像素密度](https://editor.leonh.space/2021/rediscover-pixel-dpi-ppi-and-pixel-density/#app-de-pt-yu-dp)
 
 [初探视频原理和FFmpeg](https://zhuanlan.zhihu.com/p/196765472)
 
 [【专访】 Chrome HEVC 硬解背后的字节开源贡献者](https://juejin.cn/post/7158700639030247460)
 
 [Git 是怎样生成 diff 的：Myers 算法](https://cjting.me/2017/05/13/how-git-generate-diff/)
-
-[高清 CSS 颜色指南](https://developer.chrome.com/docs/css-ui/high-definition-css-color-guide?hl=zh-cn) - 并非色盲
-
-[What really happens when you navigate to a URL](https://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/)
-
-[How browsers work](https://web.dev/articles/howbrowserswork)
 
 [There's Such a Thing As Using Too Many Ifs](https://dreith.com/blog/theres-such-a-thing-as-using-too-many-ifs/)
 
@@ -268,9 +259,23 @@
 
 [22种设计模式](https://refactoringguru.cn/design-patterns/catalog)
 
+<h3 id='css'>CSS</h3>
+
+[真的理解font-size和line-height了吗？](https://juejin.cn/post/6971673576017494053)
+
+[CSS 幻术 | 抗锯齿](https://lionad.art/articles/css-poaa)
+
+[高清 CSS 颜色指南](https://developer.chrome.com/docs/css-ui/high-definition-css-color-guide?hl=zh-cn) - 并非色盲
+
+[重新認識 Pixel、DPI / PPI 以及像素密度](https://editor.leonh.space/2021/rediscover-pixel-dpi-ppi-and-pixel-density/#app-de-pt-yu-dp)
+
 <h3 id='front-base'>前端基础</h3>
 
 [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
+
+[How browsers work](https://web.dev/articles/howbrowserswork)
+
+[What really happens when you navigate to a URL](https://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/)
 
 <h3 id='rich-text'>前端天坑：富文本编辑</h3>
 
