@@ -245,6 +245,8 @@
 
 [There's Such a Thing As Using Too Many Ifs](https://dreith.com/blog/theres-such-a-thing-as-using-too-many-ifs/)
 
+[为什么你不应该在 React 中直接使用 useEffect 从 API 获取数据](https://blog.skk.moe/post/why-you-should-not-fetch-data-directly-in-use-effect/)
+
 <h3 id='standard'>开发素养</h3>
 
 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md) - 空格拯救强迫症系列
