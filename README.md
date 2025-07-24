@@ -34,6 +34,8 @@
 
 🧭 [其它](#others)
 
+🤖 [AI](#ai)
+
 ---
 <h2 id='design'>💡 设计资源</h3>
 
@@ -312,3 +314,6 @@
 
 [域名信息备案](https://beian.miit.gov.cn/#/Integrated/index)
 
+<h2 id='ai'>🤖 AI</h2>
+
+[Model Context Protocol](https://modelcontextprotocol.io/introduction)
